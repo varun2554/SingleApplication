@@ -1,0 +1,2 @@
+# SingleApplication
+Normal application
